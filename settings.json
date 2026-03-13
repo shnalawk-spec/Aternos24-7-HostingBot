@@ -8,7 +8,7 @@
   "server": {
     "ip": "minim102.aternos.me",
     "port":22924,
-    "version": "",
+    "version": "1.16.5",
     "try-creative": false
   },
   "position": {
